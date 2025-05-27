@@ -101,5 +101,5 @@ The bar chart shows that the United States and Russia conducted the most nuclear
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/nuclear-analysis.git
+git clone [https://github.com/your-username](https://github.com/namoklom/global-nuclear-arsenal-analysis.git
 cd nuclear-analysis
